@@ -8,3 +8,4 @@ D = {'Name' : "Amrut", 'Email ID': 'Amrut@gmail,com'}
 db1 = client['mongotest']
 coll=db1['test']
 coll.insert_one(D)
+#Amrut
